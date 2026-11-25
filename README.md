@@ -1,4 +1,4 @@
-# Java LeetCode Practice
+# Java-Leetcode
 
 A collection of Java solutions for 46 Easy-level LeetCode practice problems discussed in ChatGPT.
 
